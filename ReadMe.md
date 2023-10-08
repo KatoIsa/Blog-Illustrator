@@ -5,7 +5,7 @@
 
 # (ILLUSTRATOR BLOG)
 
-### this blog website is a child of the main lad-blogger website.
+### This blog website is a child of the main lad-blogger website.
 
 </center>
 
